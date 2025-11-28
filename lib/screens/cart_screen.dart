@@ -1,0 +1,1 @@
+// Simulación del archivo cart_screen.dart para Codemagic

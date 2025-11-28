@@ -1,0 +1,1 @@
+// Simulación del archivo stats_screen.dart para Codemagic

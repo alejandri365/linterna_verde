@@ -1,0 +1,1 @@
+// Simulación del archivo products_screen.dart para Codemagic

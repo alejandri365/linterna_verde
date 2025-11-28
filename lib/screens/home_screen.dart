@@ -1,0 +1,1 @@
+// Simulación del archivo home_screen.dart para Codemagic

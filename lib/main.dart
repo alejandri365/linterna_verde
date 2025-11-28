@@ -1,0 +1,1 @@
+// Simulación del archivo main.dart para Codemagic

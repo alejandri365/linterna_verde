@@ -1,0 +1,1 @@
+// Simulación del archivo checkout_screen.dart para Codemagic
